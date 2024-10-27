@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fakhri Aditia Rahman</h1>
-<h3 align="center">Hello! I'm a passionate Front End Developer with experience in creating modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.</p> <p>With over 5 month of development experience, I specialize in JavaScript, C, Java, and Kotlin. and several software such as Pixellab, Adobe Illustrator, Canva, Corel Draw, I'm always eager to learn new technologies and take on challenging projects.</h3>
+<h3 align="center">Hello! I'm a passionate Front End Developer with experience in creating modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.</p> <p>With over 2 year of development experience, I specialize in JavaScript, C, Java, and Kotlin. and several software such as Pixellab, Adobe Illustrator, Canva, Corel Draw, I'm always eager to learn new technologies and take on challenging projects.</h3>
 
 - 👨‍💻 All of my projects are available at [www.fakerteam.my.id](www.fakerteam.my.id)
 
