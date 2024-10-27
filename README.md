@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21541
-Fork on GitHub
-6821
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Fakhri Aditia Rahman</h1>
 <h3 align="center">Hello! I'm a passionate Front End Developer with experience in creating modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.</p> <p>With over 5 month of development experience, I specialize in JavaScript, C, Java, and Kotlin. and several software such as Pixellab, Adobe Illustrator, Canva, Corel Draw, I'm always eager to learn new technologies and take on challenging projects.</h3>
 
