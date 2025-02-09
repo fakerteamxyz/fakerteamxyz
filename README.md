@@ -8,11 +8,11 @@
 ---
 
 ### About Me
-- 👨‍💻 All of my projects are available at [www.fakerteam.my.id](www.fakerteam.my.id)
-- 📝 I regularly write articles on [www.fakerteam.my.id](www.fakerteam.my.id)
+- 👨‍💻 All of my projects are available at [www.fakerteam.my.id](fakerteam.my.id)
+- 📝 I regularly write articles on [www.fakerteam.my.id](fakerteam.my.id)
 - 💬 Ask me about **Kotlin, C, Java, PHP, JavaScript**
 - 📫 How to reach me **fakhriaditiarahman12@gmail.com**
-- 📄 Know about my experiences [www.fakerteam.my.id](www.fakerteam.my.id)
+- 📄 Know about my experiences [www.fakerteam.my.id](fakerteam.my.id)
 - ⚡ Fun fact **I think I'm a villain**
 
 ---
