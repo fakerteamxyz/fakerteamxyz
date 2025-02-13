@@ -2,7 +2,7 @@
 <h3 align="center">Hello! I'm a passionate Front End Developer with experience in creating modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.</h3>
 
 <p align="center">
-  <img src="https://postimg.cc/643LrP56" alt="Profile Picture" width="200"/>
+  <a href='https://postimg.cc/643LrP56' target='_blank'><img src='https://i.postimg.cc/643LrP56/profil.jpg' border='0' alt='profil'/></a>
 </p>
 
 ---
