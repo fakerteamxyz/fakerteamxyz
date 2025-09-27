@@ -1,4 +1,4 @@
-# Hi there, I'm FakerTeamXYZ 👋
+# Hi there, I'm Fakhri Aditia Rahman 👋
 
 ![FakerTeamXYZ's GitHub Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fit=crop&w=1200&q=80)
 
@@ -35,9 +35,9 @@
 
 ## 📫 Let's Connect!
 
-- [Instagram](https://instagram.com/) <!-- Isi dengan username -->
-- [LinkedIn](https://linkedin.com/) <!-- Isi dengan username -->
-- [Email](mailto:info@sma1lsh.sch.id)
+- [Instagram](https://www.instagram.com/fvkhriar?igsh=MTUwemJhb2Vvc3RuNw==) <!-- Isi dengan username -->
+- [LinkedIn](https://www.linkedin.com/in/fakhri-aditia-rahman-36b54229b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- Isi dengan username -->
+- [Email](mailto:fakhriaditiarahman12@gmail.com)
 
 ---
 
