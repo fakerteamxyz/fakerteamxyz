@@ -44,3 +44,6 @@
 > "Code for impact, not just for syntax."
 
 ![FakerTeamXYZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakerteamxyz&show_icons=true&theme=radical)
+
+
+.
